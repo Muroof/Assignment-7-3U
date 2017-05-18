@@ -12,6 +12,7 @@ public class A7Q7 {
     /**
      * @param args the command line arguments
      */
+    // input number as an integer
     public static void firstDigit(int number) {
         // if the number is negative, make it positive
         if (number < 0) {
